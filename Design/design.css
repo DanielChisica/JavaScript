@@ -1,0 +1,14 @@
+#btn-zoom{
+    display: block;
+    width: 100%;
+    margin: 10px auto;
+    text-decoration-color: aquamarine;
+}
+
+.imagennormal{
+    width:300px;
+}
+
+.imagen-zoom{
+    width: 20px;
+}

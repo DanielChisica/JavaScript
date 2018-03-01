@@ -30,6 +30,6 @@ var idElement= document.getElementById("parrafo");
 
 var newElement=document.createElement("i");
 
-newElement.textContent="I am new text":
+newElement.textContent="I am new text";
 
 idElement.appendChild(newElement);
